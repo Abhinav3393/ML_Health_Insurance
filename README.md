@@ -3,6 +3,8 @@
 
 ##  Predicting Health Insurance Price for an individual or family
 
+https://nbviewer.org/github/Abhinav3393/ML_Health_Insurance/blob/main/Health_Insurance_price_Prediction.ipynb
+
 ## Introduction
 We live in a world that is filled with dangers and uncertainties. People, homes, businesses, buildings, and property are all vulnerable to various types of risk, and these risks might differ. These threats include the risk of death, illness, and the loss of property or possessions. People’s lives revolve around their health and happiness.
 
